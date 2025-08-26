@@ -1,0 +1,3 @@
+@echo off
+echo Starting SIH Chatbot Command Line...
+python sih_chatbot.py

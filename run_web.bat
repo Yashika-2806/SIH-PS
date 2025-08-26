@@ -1,0 +1,3 @@
+@echo off
+echo Starting SIH Chatbot Web Interface...
+streamlit run sih_chatbot_web.py
